@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [ Design URL here](https://github.com/Jasper-Ik/alphaAnime)
 - Live Site URL: [Add live site URL here](https://jasper-ik.github.io/alphaAnime/carAnime.html)
 
 ## My process
