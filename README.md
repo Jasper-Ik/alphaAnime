@@ -73,7 +73,7 @@ transform: skew(30deg, 20deg);
 transform: skewX(30deg);
 transform: skewY(1.07rad);
 
-Well dont bother in trying to know all atleat my self got familiar with the most properties i feel will be relvevant in design accessible site; rotate, translate, and scale.
+Well dont bother in trying to know all atleat my self got familiar with the most properties i feel will be relevant in designing accessible sites; rotate, translate, and scale.
 
 Using CSS animations
 CSS animations make it possible to animate transitions from one CSS style configuration to another. Animations consist of two components, a style describing the CSS animation and a set of keyframes that indicate the start and end states of the animation's style, as well as possible intermediate waypoints.
@@ -126,7 +126,7 @@ media (min-width:320px) and (max-width: 768px){
 ### Useful resources
 
 - [mozilla fire fox 1](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [mozilla fire fox resource 2](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [mozilla fire fox resource 2](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) - This is an amazing article which helped me really understanding media queries transform and animation as regards @keyframes. I'd recommend it to anyone still learning this concept.
 
 
 
